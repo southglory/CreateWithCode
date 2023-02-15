@@ -1,0 +1,18 @@
+Prototype 1/*.csproj*
+Prototype 1/*.sln
+Prototype 1/.vsconfig
+Prototype 1//Library/
+Prototype 1/Logs/
+Prototype 1/obj/
+Prototype 1/Temp/
+Prototype 1/UserSettings/
+Prototype 1/Videos/*.mkv
+Prototype 1/*.zip
+
+!README.md
+!README.md.meta
+!.gitignore
+!Prototype 1/Assets/**
+!Prototype 1/Packages/*
+!Prototype 1/ProjectSettings/*
+
